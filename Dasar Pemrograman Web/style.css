@@ -2,7 +2,7 @@ body{
     margin: 0 auto;
     height: auto; 
     width: 70%;
-    background-image: url("Background.jpg");
+    background-image: url("img/Background.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
