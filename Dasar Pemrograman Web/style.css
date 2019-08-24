@@ -6,6 +6,10 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+.box{
+    padding:auto;
+    margin:auto;
+}
 .Header{
     padding: 2px;
     border-bottom: 2px solid;
